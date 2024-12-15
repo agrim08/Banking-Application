@@ -171,7 +171,7 @@
   }
 
   .profile-details {
-    @apply flex flex-col pt-24;
+    @apply flex flex-col pt-20;
   }
 
   .profile-name {
@@ -183,7 +183,7 @@
   }
 
   .banks {
-    @apply flex flex-col justify-between gap-8 px-6 py-8;
+    @apply flex flex-col justify-between gap-6 px-6 py-8;
   }
 
   /* My Banks */
